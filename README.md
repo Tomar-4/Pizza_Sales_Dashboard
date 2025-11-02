@@ -9,6 +9,9 @@ This project highlights the complete data analytics workflow: CSV → SQL Server
 
 📊 Dashboard Screens:
 
+<img width="1522" height="814" alt="Screenshot 2025-11-02 203354" src="https://github.com/user-attachments/assets/36d0a300-5424-4392-b06f-936560968fc5" />
+<img width="1533" height="812" alt="Screenshot 2025-11-02 203339" src="https://github.com/user-attachments/assets/af8e76f6-6e70-47ac-88fa-099531567f05" />
+
 🏠 Home Page:
 
 Displays overall business KPIs: Total Sales, Total Orders, and Average Order Value
